@@ -25,7 +25,7 @@ name9 = ""
 name10 = ""
 
 //add variable here
-alert(name1);
+alert(name1 +)
 
 
 
