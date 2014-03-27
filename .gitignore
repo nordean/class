@@ -1,0 +1,36 @@
+<html>
+<script type="text/javascript">
+
+var name1
+var name2
+var name3
+var name4
+var name5
+var name6
+var name7
+var name8
+var name9
+var name10
+
+//add names
+name1 = "nordean"
+name2 = ""
+name3 = ""
+name4 = ""
+name5 = ""
+name6 = ""
+name7 = ""
+name8 = ""
+name9 = ""
+name10 = ""
+
+//add variable here
+alert(name1);
+
+
+
+
+
+
+</script>
+</html>
